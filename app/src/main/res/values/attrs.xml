@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpeedometerView">
+        <attr name="maxSpeed" format="float" />
+        <attr name="minSpeed" format="float" />
+        <attr name="speed" format="float"/>
+        <attr name="labelTextSize" format="dimension" />
+        <attr name="titleTextSize" format="dimension" />
+        <attr name="valueTextSize" format="dimension" />
+        <attr name="stitle" format="string" />
+        <attr name="majorTickStep" format="float" />
+        <attr name="minorTicks" format="integer" />
+    </declare-styleable>
+</resources>
